@@ -1,4 +1,4 @@
-package com.example.codingclass;
+package com.example.codingclass.misc;
 
 
 public class HelloWorld {

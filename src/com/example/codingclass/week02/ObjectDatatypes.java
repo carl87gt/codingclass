@@ -1,4 +1,4 @@
-package com.example.codingclass.week2;
+package com.example.codingclass.week02;
 
 public class ObjectDatatypes {
 

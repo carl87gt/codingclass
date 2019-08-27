@@ -1,6 +1,6 @@
-package com.example.codingclass.week2.access.two;
+package com.example.codingclass.week02.access.two;
 
-import com.example.codingclass.week2.access.one.Alpha;
+import com.example.codingclass.week02.access.one.Alpha;
 
 public class Gamma {
     Alpha alpha = new Alpha();

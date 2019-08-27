@@ -1,4 +1,4 @@
-package com.example.codingclass.week2.access.one;
+package com.example.codingclass.week02.access.one;
 
 public class Beta {
 

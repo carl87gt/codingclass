@@ -1,4 +1,4 @@
-package com.example.Util;
+package com.example.codingclass.misc.util;
 
 public class Constants {
 

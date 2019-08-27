@@ -6,6 +6,7 @@ target/
 *.iml
 
 ### Java ###
+out/
 .class
  
 # Package Files #

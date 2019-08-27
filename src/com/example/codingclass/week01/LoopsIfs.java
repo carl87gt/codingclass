@@ -1,7 +1,7 @@
-package com.example.codingclass.week1;
+package com.example.codingclass.week01;
 
 
-import static com.example.Util.Constants.NETWORK_GOOD_SPEED;
+import static com.example.codingclass.misc.util.Constants.NETWORK_GOOD_SPEED;
 
 public class LoopsIfs {
 
