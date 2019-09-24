@@ -1,6 +1,6 @@
 # CodingClass
 
-We are teaching aspiring developers in a free Java Class at work. This project contains examples we discussed in class for student to download and test.
+We are teaching aspiring developers in a free Java Class at work. This project contains examples we discussed in class for students to download and test.
 
 ## Installation
 
