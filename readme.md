@@ -5,6 +5,7 @@ We are teaching aspiring developers in a free Java Class at work. This project c
 ## Installation
 
 - Download this project. As of this this writing this is no need to add Maven/Gradle or any specific libraries.
+- Set the src as a "Sources" folder in your chosen IDE
 
 ## Running
 
