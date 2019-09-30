@@ -1,4 +1,4 @@
-package com.example.codingclass.week10.quiz;
+package com.example.codingclass.quiz.solution;
 
 public class Question {
 
@@ -6,17 +6,16 @@ public class Question {
     private String answer;
     private String questionType;   // should be string or number
 
-
-    Question (){
-
-    }
-
     Question (String question){
         this.question = question;
     }
 
     // todo: create constructor that takes question and questionType
     // todo: hint!!!  Question(String question, String questionType)
+    Question (String question, String questionType){
+        this.question = question;
+        this.questionType = questionType;
+    }
 
     public String getQuestion() {
         return question;
@@ -35,5 +34,12 @@ public class Question {
     }
 
     // todo: add getter and setter for questionType
+    public String getQuestionType() {
+        return questionType;
+    }
+
+    public void setQuestionType(String questionType) {
+        this.questionType = questionType;
+    }
 
 }

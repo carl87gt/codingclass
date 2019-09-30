@@ -1,6 +1,4 @@
-package com.example.codingclass.week10.quiz;
-
-import com.example.codingclass.week10.quiz.Quiz;
+package com.example.codingclass.quiz.assignment;
 
 public class QuizLauncher {
     public static void main(String[] args){

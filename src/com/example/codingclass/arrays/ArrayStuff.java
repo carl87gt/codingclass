@@ -1,4 +1,4 @@
-package com.example.codingclass.week04;
+package com.example.codingclass.arrays;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.example.codingclass.week02;
+package com.example.codingclass.datatypes;
 
 public class Variables {
 

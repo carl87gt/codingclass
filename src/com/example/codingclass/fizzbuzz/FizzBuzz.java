@@ -1,4 +1,4 @@
-package com.example.codingclass.week01.fizzbuzz;
+package com.example.codingclass.fizzbuzz;
 
 public class FizzBuzz {
 

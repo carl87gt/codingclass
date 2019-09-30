@@ -1,4 +1,4 @@
-package com.example.codingclass.week10;
+package com.example.codingclass.quiz.assignment.domain;
 
 public class Person {
 

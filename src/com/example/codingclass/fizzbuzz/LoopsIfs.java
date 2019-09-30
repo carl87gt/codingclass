@@ -1,4 +1,4 @@
-package com.example.codingclass.week01;
+package com.example.codingclass.fizzbuzz;
 
 
 import static com.example.codingclass.misc.util.Constants.NETWORK_GOOD_SPEED;
